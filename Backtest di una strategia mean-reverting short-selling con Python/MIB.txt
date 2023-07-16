@@ -1,0 +1,398 @@
+Symbol	Description
+4AIM	4Aim Societa di Investimento per Azioni a Capitale Fisso
+A2A	A2A S.p.A
+AAPL	Apple Inc.
+ABC	ABC Co. S.p.A. Societa Benefit
+ABI	Anheuser Busch Inbev SA NV
+ABS	Arterra Bioscience S.p.A.
+ABT	Abitare In S.p.A
+ABTG	Alfio Bardolla Training Group SpA
+AC5	Acinque S.p.A.
+ACA	Crédit Agricole S.A
+ACE	ACEA S.p.A
+AD	Koninklijke Ahold Delhaize NV
+ADB	Aeroporto Guglielmo Marconi di Bologna SpA
+ADS	adidas AG
+AED	Aedes SIIQ S.p.A
+AEF	Aeffe S.p.A.
+AGA	Agatos S.p.A
+AGL	Autogrill S.p.A.
+AGS	ageas SA/NV
+AI	L'Air Liquide S.A
+AIR	Airbus Group SE
+ALK	Alkemy S.p.A.
+ALV	Allianz SE VNA O.N.
+ALW	algoWatt SpA
+AMB	Ambromobiliare S.p.A
+AMD	Advanced Micro Devices Inc.
+AMP	Amplifon S.p.A
+AMZN	Amazon.com Inc
+ANIM	Anima Holding SpA
+ARN	Alerion Cleanpower
+ASC	Ascopiave S.p.A.
+ASML	ASML Holding NV
+ATH	Ambienthesis S.p.A
+AUTME	Autostrade Meridionali S.p.A
+AV	Antares Vision S.p.A
+AVIO	Avio S.p.A
+AXA	AXA SA
+AZM	Azimut Holding S.p.A
+B	Bastogi S.p.A
+BAMI	Banco Bpm SpA
+BAN	BasicNet S.p.A
+BASF	BASF SE NA O.N.
+BAY	Bayer Aktiengesellschaft
+BB	BB Biotech AG
+BBVA	Banco Bilbao Vizcaya Argentaria SA
+BC	Brunello Cucinelli S.p.A
+BDB	Banco di Desio e della Brianza S.p.A.
+BE	Beghelli
+BEC	B&C Speakers S.p.A
+BEI	Beiersdorf Aktiengesellschaft
+BFC	BFC Media S.p.A.
+BFF	BFF Bank SpA
+BFG	BF Holding SpA
+BGN	Banca Generali S.p.A.
+BIA	Bialetti Industrie
+BIE	Bioera
+BIM	Banca Intermobiliare di Investimenti e Gestioni SpA
+BMED	Banca Mediolanum SpA
+BMPS	Banca Monte dei Paschi di Siena SpA
+BMW	Bayerische Motoren Werke AG
+BNP	BNP Paribas SA
+BO	Borgosesia S.p.A
+BPE	BPER Banca SpA
+BPSO	Banca Popolare di Sondrio S.p.A.
+BRE	Brembo S.p.A.
+BRI	Brioschi Sviluppo Immobiliare S.p.A
+BSS	Biesse
+BST	Banca Sistema S.p.A
+BZU	Buzzi Unicem
+CAI	Cairo Communication
+CALT	Caltagirone SpA
+CBB	CleanBnB S.p.A
+CBK	Commerzbank AG
+CDG	Casta Diva Group S.p.A
+CE	Credito Emiliano S.p.A
+CED	Caltagirone Editore
+CELL	Cellularline
+CEM	Cementir Holding N.V
+CFM	CrowdFundMe SpA
+CFV	Confinvest F.L. S.p.A
+CIA	Compagnia Immobiliare Azionaria S.p.A
+CIR	CIR S.p.A. - Compagnie Industriali Riunite
+CIRC	Circle SpA
+CLA	Clabo S.p.A
+CLE	Class Editori Spa
+CLF	Caleffi S.p.A
+CLI	Centrale del Latte d'Italia S.p.A
+CMB	Cembre S.p.A.
+CNF	Conafi S.p.A
+CNHI	CNH Industrial NV
+COM	Comer Industries S.p.A
+COP	Copernico Sim S.p.A
+COV	Cover 50 SpA
+CPR	Davide Campari-Milano N.V
+CRL	Carel Industries S.p.A
+CRR	Carrefour SA
+CSP	CSP International
+CULT	Culti Milano SpA
+CVO	Covivio SA
+CYB	Cyberoo Spa
+DAL	Datalogic
+DAN	Danieli & C. Officine Meccaniche S.p.A
+DANR	Danieli & C. Officine Meccaniche S.p.A
+DB1	Deutsche Börse AG
+DBA	DBA Group SpA
+DBK	Deutsche Bank AG NA O.N.
+DEA	DeA Capital
+DG	Vinci S.A.
+DGT	Digitouch SPA
+DGV	Digital Value SpA
+DHH	DHH SpA
+DIA	DiaSorin S.p.A
+DIB	Digital Bros
+DIG	Digital360 S.p.A
+DIS	d'Amico International Shipping S.A
+DLG	De Longhi SpA
+DM	Digital Magics S.p.A
+DNN	Danone SA
+DOV	doValue S.p.A
+DOX	Doxee S.p.A
+DPW	Deutsche Post AG
+DTE	Deutsche Telekom AG Na
+ECK	Ecosuntek S.p.A
+ECNL	Aquafil SpA
+EDAC	Ediliziacrobatica
+EDNR	Edison S.p.A
+EEMS	EEMS Italia SpA
+EL	EssilorLuxottica Société anonyme
+ELC	Elica S.p.A
+ELES	Eles Semiconductor Equipment SpA
+ELN	EL.En. S.p.A.
+EM	Emak S.p.A
+ENAV	Enav SpA
+ENEL	Enel SpA
+ENGI	Engie S.A.
+ENI	Eni SpA
+ENT	Enertronica Santerno S.p.A
+ENV	Enervit S.p.A
+EOAN	E.ON SE
+EPR	ePRICE S.p.A.
+EQUI	Equita Group SpA
+ERG	ERG S.p.A
+ESAU	Esautomotion SpA
+ETH	Eurotech S.p.A.
+EUK	EuKedos S.p.A
+EVA	Askoll Eva SpA
+EVK	Evonik Industries AG
+EXAI	ExpertAi SpA
+FAR	Farmaè S.p.A
+FARM	H-Farm S.p.A
+FBK	FinecoBank Banca Fineco SpA
+FCM	Friulchem SpA
+FCT	Fincantieri SpA
+FDA	Fidia SpA
+FDE	Frendy Energy
+FF	Fine Foods & Pharmaceuticals NTM SpA
+FIC	First Capital S.p.A
+FILA	Fila SpA
+FKR	Falck Renewables S.p.A
+FM	Fiera Milano SpA
+FME	Fresenius Medical Care AG & Co. KGaA
+FNL	Finlogic SpA
+FNM	FNM S.p.A
+FOS	Fos SpA
+FPE	Fope S.p.A.
+FRE	Fresenius SE & Co. KGaA
+FUL	Fullsix
+FUM	Franchi Umberto Marmi S.p.A.
+FVI	Fervi S.p.A
+G	Assicurazioni Generali S.p.A.
+GAB	Gabetti Property Solutions S.p.A.
+GAMB	Gambero Rosso SpA
+GBUS	Gibus S.p.A
+GE	Gefran S.p.A
+GEL	Gel S.p.A
+GEO	Geox S.p.A
+GEQ	Gequity SpA
+GG	Giglio Group S.p.A
+GGP	Gruppo Green Power S.p.A
+GHC	Garofalo Health Care SpA
+GILD	Gilead Sciences Inc.
+GIS	Gismondi 1754 S.p.A
+GLE	Societe Generale S.A.
+GO	GO internet
+GOOG	Alphabet Inc Class C
+GOOGL	Alphabet Inc Class A
+GPI	GPI SpA
+GRAL	Grifal S.p.A
+GROW	Growens S.p.A.
+GSP	Gas Plus
+HEI	HeidelbergCement AG
+HER	Hera S.p.A
+HI	Health Italia S.p.A
+IB	Iniziative Bresciane Inbre
+ICF	Industrie Chimiche Forestali SpA
+IE	Iervolino Entertainment SpA
+IEG	Italian Exhibition Group SpA
+IF	Banca IFIS
+IFX	Infineon Technologies AG
+IG	Italgas SpA
+IGD	Immobiliare Grande Distribuzione SIIQ SpA
+IGV	I Grandi Viaggi SpA
+IIG	Italia Independent Group S.p.A
+IKG	Intek Group
+IKGR	Intek Group S.p.A
+ILLA	ILLA SpA
+ILP	ILPRA SpA
+ILTY	illimity Bank SpA
+IMS	Immsi S.p.A
+INC	Innovatec S.p.A.
+INDB	Indel B SPA
+INGA	ING Groep NV
+INTC	Intel Corporation
+INW	Infrastrutture Wireless Italiane S.p.A
+IP	Interpump Group S.p.A.
+IRC	IRCE S.p.A
+IRE	Iren SpA
+ISP	Intesa Sanpaolo SpA
+ITD	Intred S.p.A
+ITM	Italmobiliare S.p.A
+ITW	Itway S.p.A
+IVS	IVS Group SA
+IWB	Italian Wine Brands S.p.A
+JUVE	Juventus Football Club
+KER	Kering SA
+KI	KI Group
+KIP	Kolinpharma SpA
+KMER	Intek Group S.p.A. RNC
+LDO	Leonardo S.p.A.
+LFG	Leone Film Group SpA
+LHA	Deutsche Lufthansa AG
+LMG	Lucisano Media Group S.p.A
+LON	Longino & Cardenal SPA
+LR	Landi Renzo
+LUVE	LU-VE SpA
+LVEN	Lventure Group
+LVMH	LVMH Moet Hennessy Louis Vuitton SE
+MAPS	Maps SpA
+MARP	Marzocchi Pompe S.p.A
+MARR	MARR S.p.A
+MASI	Masi Agricola S.p.A
+MB	Mediobanca Banca di Credito Finanziario S.p.A
+MBG	Mercedes Benz Group AG
+MET	Met.Extra Group S.p.A.
+MFEB	MFE MEDIAFOREUROPE NV
+MFT	Matica Fintec S.p.A
+MIT	Mittel S.p.A
+MN	Arnoldo Mondadori Editore S.p.A
+MNL	Monnalisa S.p.A
+MOL	Mutuionline
+MON	Monrif S.p.A
+MONC	Moncler SpA
+MRK	Merck & Company Inc
+MSFT	Microsoft Corporation
+MSU	Mondo TV Suisse SA
+MT	Maire Tecnimont S.p.A.
+MTF	Mondo TV France Société Anonyme
+MTV	Mondo TV
+MU	Micron Technology Inc.
+MUV2	Münchener Rück AG
+NDT	Neodecortech SpA
+NET	Net Insurance S.p.A
+NEXI	Nexi S.p.A
+NFLX	Netflix Inc
+NOKIA	Nokia Oyj
+NPI	Notorious
+NR	Next Re SIIQ SpA
+NRST	Neurosoft Software Production
+NSP	Neosperience SpA
+NTW	Netweek SpA
+NVDA	NVIDIA Corporation
+NVP	NVP S.p.A
+NWL	Newlat Food S.p.A
+OJM	Openjobmetis SpA Agenzia per il Lavoro
+OR	L’Oreal SA
+ORA	Orange S.A.
+ORS	Orsero S.p.A
+OS	Officina Stellare
+OVS	OVS SPA
+PHIA	Koninklijke Philips NV
+PHN	Pharmanutra S.p.A
+PIA	Piaggio & C
+PINF	Pininfarina S.p.A
+PIRC	Pirelli & C SPA
+PITE	PiteCo SpA
+PLC	PLC SpA
+POPR	Poligrafici Printing SpA
+POR	Portobello S.p.A
+PQ	Piquadro
+PRI	Prima Industrie SpA
+PRL	Pierrel
+PRM	Prismi S.p.A.
+PRO	Banca Profilo
+PRT	Esprinet
+PRY	Prysmian SpA
+PSA	Portale Sardegna S.p.A
+PSM	ProSiebenSat.1 Media SE
+PST	Poste Italiane SpA
+PTR	Pattern S.p.A
+PVN	Piovan S.p.A
+PWS	Powersoft SpA
+QFID	Qf Immobiliare Dinamico
+RACE	Ferrari NV
+RAD	Radici Pietro Industries & Brands S.p.A
+RAT	Ratti S.p.A
+RCS	RCS MediaGroup S.p.A
+REC	Recordati Industria Chimica e Farmaceutica S.p.A.
+REN	Renergetica S.p.A
+REY	Reply SpA
+RLT	Relatech SpA
+RN	Risanamento
+RNO	Renault SA
+RST	Restart SIIQ S.p.A
+RWAY	Rai Way SpA
+RWE	RWE AG ST O.N.
+S24	Il Sole 24 Ore SpA
+SAB	Sabaf S.p.A
+SAF	Safran SA
+SANF	Sanofi SA
+SANT	Banco Santander
+SAP	SAP SE
+SCF	Salcef Group S.p.A.
+SCK	Sciuker Frames SpA
+SCM	Solutions Capital Management SIM SpA
+SDF	K+S Aktiengesellschaft
+SEIF	Società Editoriale Il Fatto S.p.A
+SERI	Seri Industrial S.p.A
+SES	SeSa S.p.A
+SFER	Salvatore Ferragamo SpA
+SFL	Safilo Group S.p.A
+SG	SAES Getters S.p.A
+SGC	SG Company S.p.A
+SGO	Compagnie de Saint-Gobain S.A.
+SGR	SAES Getters S.p.A
+SHE	Shedir Pharma Group
+SIE	Siemens AG Class N
+SIO	Sirio S.p.A
+SIT	SIT S.p.A
+SL	Sanlorenzo S.p.A
+SO	Sogefi S.p.A
+SOF	Softlab S.p.A.
+SOL	SOL S.p.A
+SOM	Somec S.p.A
+SOS	SosTravel.com S.P.A
+SPM	Saipem SpA
+SRG	Snam SpA
+SRI	Servizi Italia S.p.A
+SRS	Saras SpA
+SSL	S.S. Lazio S.p.A
+STLAM	Stellantis N.V.
+STM	STMicroelectronics N.V.
+SU	Schneider Electric S.E.
+TB	Triboo SpA
+TEF	Telefonica
+TEN	Tenaris S.A
+TES	Tesmec
+TFI	Trevi Fin Industriale
+TGYM	Technogym SpA
+TIP	Tamburi Investment Partners
+TIS	Tiscali
+TIT	Telecom Italia S.p.A.
+TITR	Telecom Italia S.p.A
+TKA	thyssenkrupp AG
+TLS	Telesia S.p.A
+TNXT	Tinexta SpA
+TOD	Tod’s SpA
+TOT	TotalEnergies SE
+TPS	Technical Publications Service S.p.A
+TRN	Terna Rete Elettrica Nazionale SpA
+TSL	Tiscali S.p.A.
+TSLA	Tesla Inc.
+TWL	TraWell Co S.p.A
+TXT	TXT e-solutions S.p.A
+TYA	Toscana Aeroporti SpA
+U24	Ucapital24
+UCG	UniCredit S.p.A.
+UNI	Unipol Gruppo S.p.A.
+UNIR	UniEuro SpA
+US	UnipolSai Assicurazioni SpA
+VE	Visibilia Editore SpA
+VIA	Vianini S.p.A
+VIM	vimi fasteners S.p.a
+VIV	Vivendi SA
+VLS	Valsoia S.p.A
+VOW3	Volkswagen AG
+VTY	Vetrya S.p.A
+WBD	Webuild SpA
+WBDR	Webuild S.p.A. RNC
+WEB	Websolute S.p.A
+WIIT	Wiit SpA
+WMC	WM Capital S.p.A
+XPR	Exprivia
+YIV	Imvest
+YRM	Rosetti Marino SpA
+YSFT	Softec
+ZUC	Vincenzo Zucchi S.p.A
+ZV	Zignago Vetro
